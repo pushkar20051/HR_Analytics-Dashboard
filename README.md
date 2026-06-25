@@ -13,6 +13,7 @@ This project presents an HR Analytics Dashboard developed using Tableau Public t
 
 ## Tools Used
 - Tableau Public
-
+- Jupyter Notebook
+  
 ## Tableau Public Dashboard
 (https://public.tableau.com/shared/K3M8W45BH?:display_count=n&:origin=viz_share_link)
